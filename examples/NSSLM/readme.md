@@ -27,14 +27,14 @@ This MATLAB script demonstrates the post-processing of NSSM (Non-Linear Sound Sh
    A final section illustrates the super-resolution rendering steps.
 
 ## Usage
-1. Clone or download this repository.  
+1. Clone or download this repository from Zenodo.
 2. Update paths in the script (e.g., `Paths.pathToData`, `Paths.pathToRepo`) to match your local directory structure.  
 3. Run the script in MATLAB:
    ```matlab
    processNSSLM
    ```
 ## Data 
-Example data is available on Zenodo [10.5281/zenodo.13988116](10.5281/zenodo.13988116). 
+Example data is available on Zenodo [zenodo.14740878](https://doi.org/zenodo.14740878). 
 
 | File                                          | Content                                                                                                                                                                                                                     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
