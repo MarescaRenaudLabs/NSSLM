@@ -34,7 +34,7 @@ This MATLAB script demonstrates the post-processing of NSSM (Non-Linear Sound Sh
    processNSSLM
    ```
 ## Data 
-Example data is available on Zenodo [zenodo.14740878](https://doi.org/zenodo.14740878). 
+Example data is available on Zenodo [10.5281/zenodo.13988115](https://doi.org/10.5281/zenodo.13988115). 
 
 | File                                          | Content                                                                                                                                                                                                                     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

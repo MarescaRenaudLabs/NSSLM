@@ -1,6 +1,6 @@
 **Data and code available at**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14740878.svg)](https://doi.org/10.5281/zenodo.14740878)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13988115.svg)](https://doi.org/10.5281/zenodo.13988115)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # NSSLM
